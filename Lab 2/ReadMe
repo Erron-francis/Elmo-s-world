@@ -1,1 +1,3 @@
 ADC_photoresistor is video proof of the ADC code working, a red LED and photoresistor was used as the analog input.
+ADC_test.bin is the binary file for the project
+main.c is the c program with all routines including test routines.
